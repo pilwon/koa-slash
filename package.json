@@ -1,0 +1,23 @@
+{
+  "name": "koa-slash",
+  "version": "0.1.0",
+  "description": "Koa middleware that removes trailing slashes",
+  "license": "MIT",
+  "author": {
+    "name": "Pilwon Huh",
+    "email": "pilwon@gmail.com"
+  },
+  "homepage": "https://github.com/pilwon/koa-slash",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pilwon/koa-slash.git"
+  },
+  "keywords": [
+    "koa",
+    "middleware",
+    "slash",
+    "trailing",
+    "slash",
+    "slashes"
+  ]
+}
