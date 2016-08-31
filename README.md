@@ -6,6 +6,20 @@
 [Koa](https://github.com/koajs/koa) middleware that removes trailing slashes.
 
 
+## Installation
+
+    npm install koa-slash
+
+
+## Usage
+
+```js
+    const koaSlash = require('koa-slash');
+    // ...
+    app.use(koaSlash());
+```
+
+
 ## License
 
 <pre>
